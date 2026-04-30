@@ -5,6 +5,7 @@ from astrbot.api import AstrBotConfig
 import sys
 import os
 import aiohttp
+import asyncio
 import json
 from datetime import datetime
 
